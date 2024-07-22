@@ -21,7 +21,7 @@ public class StarPira {
         System.out.println("피라미드 모양으로 나타냅니다.");
 
         do {
-            System.out.print("단수는 ：");
+            System.out.print("단수를 입력해주세요.：");
             n = stdIn.nextInt();
         } while (n <= 0);
 
