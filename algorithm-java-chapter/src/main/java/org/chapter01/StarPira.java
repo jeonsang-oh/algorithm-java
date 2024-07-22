@@ -15,6 +15,7 @@ public class StarPira {
 
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
+
         int n;
 
         System.out.println("피라미드 모양으로 나타냅니다.");
