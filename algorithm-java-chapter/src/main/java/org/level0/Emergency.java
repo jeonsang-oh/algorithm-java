@@ -2,12 +2,12 @@ package org.level0;
 
 import java.util.Arrays;
 
-public class emergency {
+public class Emergency {
 
     public static void main(String[] args) {
-        emergency multiply = new emergency();
+        Emergency emergency = new Emergency();
 
-        System.out.println(Arrays.toString(multiply.solution(new int[]{1,2,3,4,5})));
+        System.out.println(Arrays.toString(emergency.solution(new int[]{1,2,3,4,5})));
     }
 
     public int[] solution(int[] emergency) {
